@@ -1,0 +1,28 @@
+.title-red{
+    color: red;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: pink;
+
+}
+
+.image-flower{
+border-radius: 50%;
+width:450px;
+height: 400px;
+}
+.head-page{
+background-color: yellow;
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+video{
+align-items: center;
+background-color: pink;
+border-radius: 20%;
+border: solid 10px rgb(226, 145, 190);
+}
